@@ -181,7 +181,7 @@ Usually the 2px versions will be best for higher res systems.
     - Display overlay= ON
     - Overlay Preset= Scanlines and Grids/(Choose your favorite effect)
     - Overlay Opacity=  1.00
-<details>
+</details>
   
 </details>
 

@@ -195,7 +195,7 @@ Usually the 2px versions will be best for higher res systems.
 ## Overlays for 720 x 720 screens
 <details>
     <summary>Description</summary>
-Systems: RGB30, Retropixel Pocket if you have one of the 5 that are out there
+Systems: RGB30, Retropixel Pocket if you have one of the 5 that are out there.
 
 
 I have made some 600 x 800 and some 768 x 576 overlays for 4:3 systems. In my opinion it is better to have a screen crop than have a smaller picture on this screen. The 600 x 800 ones crop more of the screen so they are best to use in games with minimal UI or adjustable UI (a lot of arcade games for DC and PS1 have this in the options)

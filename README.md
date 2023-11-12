@@ -8,7 +8,7 @@ The goal with all of these overlays is to make the screen look as good as possib
 
 The GBP one is based on the work of @creamydips
 </details>
-** 6-1-2023 Update ** (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip) (Thanks to @duckyb)
+# 6-1-2023 Update (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip) (Thanks to @duckyb)
 </details>
 <details>
     <summary>Changelog</summary>

@@ -3,7 +3,6 @@
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 ## Overlays for 640 x 480 screens
----
 Miyoo Mini (Plus), 353v/vs, 353m, 35XX, ARC-D/S, 405m, 353ps, 351v, RGB20s, RK2023, GKD Mini Plus
 <details>
     <summary>Description</summary>

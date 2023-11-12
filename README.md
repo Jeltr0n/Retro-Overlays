@@ -192,7 +192,7 @@ Usually the 2px versions will be best for higher res systems.
   
 </details>
 
-## Overlays for 720 x 720 screens
+## 720 x 720 Overlays
 <details>
     <summary>Description</summary>
 Systems: RGB30, Retropixel Pocket if you have one of the 5 that are out there.

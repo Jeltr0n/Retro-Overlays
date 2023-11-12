@@ -1,8 +1,20 @@
-480p Overlays for Miyoo Mini and other 640x480 screens like the rg353 devices
+Overlays for 640x480 screens
 ---
 <details>
     <summary>Description</summary>
-A set of CRT Overlays and Scanline Overlays all designed for the 640x480 4:3 aspect ratio of the Miyoo Mini (Plus) screen.
+A set of CRT Overlays and Scanline Overlays all designed for the 640x480 4:3 aspect ratio of the Miyoo Mini (Plus) screen. The instructions are for Onion but I will put general RetroArch Instructions as soon as I have time. It should be noted that only the Onion version of RA has the gambatte palettes that are ideal for the gameboy overlay. There is also a blending bug in RA that has been fixed in Onion's version of RA but might not be fixed in all versions of RA.
+
+    Some devices with 640 x 480 screens:
+        -353v/vs
+        -353m
+        -35XX
+        -ARC-D/S
+        -405m
+        -353ps
+        -351v
+        -RGB20s
+        -RK2023
+        -GKD Mini Plus
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 

@@ -85,7 +85,6 @@ I often put all of my GB and GBC roms in the same folder since they both use the
 <details>
 <summary>Gameboy Color</summary
                           
----
 ![prototype3](https://user-images.githubusercontent.com/70062490/231197229-5bcb7417-7ed5-4799-ae96-44bebcd2e927.png)
 
 **Quick Menu**
@@ -109,7 +108,7 @@ I often put all of my GB and GBC roms in the same folder since they both use the
 
 <details>
 <summary>Gameboy Advance</summary
----
+
 ![GBA_Example](https://user-images.githubusercontent.com/70062490/224847113-6c9af53f-40b8-494b-b2fc-ed412041305a.png)
 
 **Quick Menu**
@@ -132,7 +131,7 @@ I often put all of my GB and GBC roms in the same folder since they both use the
 
 <details>
 <summary>Neo Geo Pocket</summary
----
+
 ![ms1st](https://user-images.githubusercontent.com/70062490/231246253-78d0598f-dde8-4fc2-bd5c-8bf45526b73f.png)
 
 **Settings**
@@ -151,7 +150,7 @@ I often put all of my GB and GBC roms in the same folder since they both use the
 
 <details>
 <summary>CRT</summary
----
+
 ![CRT_Example](https://user-images.githubusercontent.com/70062490/224847109-47166561-4230-4537-9790-9dbad8736952.png)
 These are good for 4:3 systems scaled to full screen. 
 Note: There was a bug in Onion's version of Retroarch that was fixed by @akouzoukos that made the overlays appear incorrectly. This bug is addressed in Onion 4.2 beta 4.

@@ -67,7 +67,7 @@ Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/109623
     
 How to use the Overlays with Onion
 ---
-Gameboy
+### Gameboy
 ---
 ![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
 
@@ -94,7 +94,7 @@ Please note that the 'GB-Pocket' gambatte palette requires Onion 4.2 beta 4 or l
 
 I often put all of my GB and GBC roms in the same folder since they both use the gambatte core but you may want to separate them so that you can save different settings for them. Don't forget after you set your settings the way you want them to go to Overrides->Save Content Directory overrides or Retroarch will conveniently delete all of your settings. If you choose save core overrides it might save it for both GB and GBC which would not be ideal.
 
-Gameboy Color
+### Gameboy Color
 ---
 ![prototype3](https://user-images.githubusercontent.com/70062490/231197229-5bcb7417-7ed5-4799-ae96-44bebcd2e927.png)
 
@@ -116,7 +116,7 @@ Gameboy Color
     - Overlay Opacity=  1.00
 
 
-GBA
+### GBA
 ---
 ![GBA_Example](https://user-images.githubusercontent.com/70062490/224847113-6c9af53f-40b8-494b-b2fc-ed412041305a.png)
 
@@ -136,7 +136,7 @@ GBA
     - Overlay Preset=  GBA/GBAOffset/GBA_(Choose if you want grid or scanline)_(The number represents how opaque the effect will be)
     - Overlay Opacity=  1.00
 
-NGP
+## NGP
 ---
 ![ms1st](https://user-images.githubusercontent.com/70062490/231246253-78d0598f-dde8-4fc2-bd5c-8bf45526b73f.png)
 
@@ -152,7 +152,7 @@ NGP
     - Overlay Preset= NGP/NGPOffset/NGP_Black
     - Overlay Opacity=  1.00
 
-CRT
+### CRT
 ---
 ![CRT_Example](https://user-images.githubusercontent.com/70062490/224847109-47166561-4230-4537-9790-9dbad8736952.png)
 These are good for 4:3 systems scaled to full screen. 
@@ -168,7 +168,7 @@ Note: There was a bug in Onion's version of Retroarch that was fixed by @akouzou
     - Overlay Preset= CRT/(Choose your favorite effect)
     - Overlay Opacity=  1.00
   
-Scanlines & Grids
+### Scanlines & Grids
 ---
 Usually the 2px versions will be best for higher res systems.
 **Settings**

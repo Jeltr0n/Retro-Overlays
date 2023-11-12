@@ -209,22 +209,22 @@ My favorite middle-ground is 768 x 576 which is 1.2x the size and only crops 24 
 
 First set your aspect ratio to access manual control over the screen position:
 - Settings->
- - Video->
-  - Aspect Ratio->
-   - Scaling->
-    - Aspect Ratio->Custom
+    - Video->
+        - Aspect Ratio->
+            - Scaling->
+                - Aspect Ratio->Custom
 
 If an overlay says **576p** in the filename use these settings:
-- X position:-24
-- Y Position:60
-- Width :768
-- Height:576
+- X position: -24
+- Y Position: 60
+- Width: 768
+- Height: 576
  
  If an overlay says **600x800** in the filename use these settings:
-- X position:-40
-- Y Position:60
-- Width :800
-- Height:600
+- X position: -40
+- Y Position: 60
+- Width: 800
+- Height: 600
  
 </details>
 

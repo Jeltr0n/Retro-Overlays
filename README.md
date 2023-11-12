@@ -1,4 +1,7 @@
-Overlays for 640x480 screens
+# Jeltron's Retro Overlays
+![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
+The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
+## Overlays for 640x480 screens
 ---
 <details>
     <summary>Description</summary>
@@ -15,8 +18,6 @@ A set of CRT Overlays and Scanline Overlays all designed for the 640x480 4:3 asp
         -RGB20s
         -RK2023
         -GKD Mini Plus
-
-The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 
 The GBP one is based on the work of @creamydips
 </details>

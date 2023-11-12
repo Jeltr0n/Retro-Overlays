@@ -230,8 +230,14 @@ If an overlay says **576p** in the filename use these settings:
 - X position: -40
 - Y Position: 30
 - Width: 800
-- Height:600
-- 
+- Height: 600
+
+ If an is in the **480p** folder use these settings:
+- X position: 40
+- Y Position: 24
+- Width: 640
+- Height: 480
+
 </details>
 
 <details>
@@ -239,7 +245,7 @@ If an overlay says **576p** in the filename use these settings:
     
 Scaling:
 - X_Offset: 0
-- Y_offset:102
+- Y_offset: 102
 - Width: 720
 - Height:480
     

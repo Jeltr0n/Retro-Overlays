@@ -1,5 +1,6 @@
 480p Overlays for Miyoo Mini and other 640x480 screens like the rg353 devices
-<Description>
+---
+    <summary>Description</summary>
 A set of CRT Overlays and Scanline Overlays all designed for the 640x480 4:3 aspect ratio of the Miyoo Mini (Plus) screen.
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
@@ -7,7 +8,7 @@ The goal with all of these overlays is to make the screen look as good as possib
 The GBP one is based on the work of @creamydips
 </details>
 **6-1-2023 Update** [6-1-23 update.zip](https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip) (Thanks to @duckyb)
-</Description>
+</details>
     <summary>Changelog</summary>
 
 GB

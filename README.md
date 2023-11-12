@@ -153,8 +153,9 @@ Note: There was a bug in Onion's version of Retroarch that was fixed by @akouzou
     - Display overlay= ON
     - Overlay Preset= CRT/(Choose your favorite effect)
     - Overlay Opacity=  1.00
-
-Scanlines & Grids
+  <details>
+      
+<summary>Scanlines & Grids</summary>
 ---
 Usually the 2px versions will be best for higher res systems.
 **Settings**
@@ -165,6 +166,7 @@ Usually the 2px versions will be best for higher res systems.
 - On-Screen Display
   - On-Screen Overlay
     - Display overlay= ON
-  </details>
     - Overlay Preset= Scanlines and Grids/(Choose your favorite effect)
     - Overlay Opacity=  1.00
+     </details>
+  </details>

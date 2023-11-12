@@ -14,7 +14,7 @@ The GBP one is based on the work of @creamydips
 ### 2023-06-01 Update (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip)
 
 <details>
-    <summary>Changelog</summary>
+    <summary>Changelog & Old Versions</summary>
 Thanks to @duckyb
 
 GB
@@ -35,9 +35,6 @@ SFC
 - a new overlay for Super Famicom by @duckyb
 VIDEO FILTERS
 -There is a very versatile new offset video filter by @eggs that allows you to offset the screen by X pixels by editing a simple text document. Could be useful for future overlays made by other people.
-</details>
-<details>
-    <summary>Older Versions</summary>
 
 **4-4-2023 Update** [Jeltron Overlays- 480p.zip](https://github.com/OnionUI/Onion/files/11149108/Jeltron.Overlays-.480p.zip)
 <details>

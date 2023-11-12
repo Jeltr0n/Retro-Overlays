@@ -8,7 +8,7 @@ The goal with all of these overlays is to make the screen look as good as possib
 
 The GBP one is based on the work of @creamydips
 </details>
-**6-1-2023 Update** [6-1-23 update.zip](https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip) (Thanks to @duckyb)
+**6-1-2023 Update** (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip) (Thanks to @duckyb)
 </details>
     <summary>Changelog</summary>
 
@@ -31,8 +31,8 @@ SFC
 VIDEO FILTERS
 -There is a very versatile new offset video filter by @eggs that allows you to offset the screen by X pixels by editing a simple text document. Could be useful for future overlays made by other people.
 </details>
-
-
+<details>
+    <summary>Older Versions</summary>
 
 **4-4-2023 Update** [Jeltron Overlays- 480p.zip](https://github.com/OnionUI/Onion/files/11149108/Jeltron.Overlays-.480p.zip)
 <details>
@@ -44,7 +44,7 @@ VIDEO FILTERS
 </details>
 
 Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/10962300/Onion.Overlays.zip)
-
+</details>
 How to use the Overlays with Onion
 ---
 Gameboy

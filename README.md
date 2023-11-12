@@ -1,11 +1,11 @@
-I noticed that Onion's version of RA has the ability to offset the image in the settings disabled. This makes it so that the only overlays that are currently included for systems like the GBA are for the tiny integer scaled scaling mode. I've worked with @akouzoukos to develop a set of video filters and overlays that work together to enable new scaling modes that work better with overlays. The new video filters offset both GB and GBA to be higher so there's more room for the system logos and would work well with other people's overlays too. I have included in this zip both the video filters and the overlays.
+480p Overlays for Miyoo Mini and other 640x480 screens like the rg353 devices
+<details>
+A set of CRT Overlays and Scanline Overlays all designed for the 640x480 4:3 aspect ratio of the Miyoo Mini (Plus) screen.
 
-I also messed around and made some more universal overlays that some people might enjoy. A set of CRT Overlays and Scanline Overlays all designed for the 640x480 4:3 aspect ratio of the Miyoo screen.
-
-The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best. We are trying to avoid the screen getting too dark or anything like that as a result of these overlays/filters.
+The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 
 The GBP one is based on the work of @creamydips
-
+</details>
 **6-1-2023 Update** [6-1-23 update.zip](https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip) (Thanks to @duckyb)
 <details>
     <summary>Changelog</summary>

@@ -152,8 +152,10 @@ I often put all of my GB and GBC roms in the same folder since they both use the
 <summary>CRT</summary
 
 ![CRT_Example](https://user-images.githubusercontent.com/70062490/224847109-47166561-4230-4537-9790-9dbad8736952.png)
+
 These are good for 4:3 systems scaled to full screen. 
 Note: There was a bug in Onion's version of Retroarch that was fixed by @akouzoukos that made the overlays appear incorrectly. This bug is addressed in Onion 4.2 beta 4.
+
 **Settings**
 - Video
   - Scaling
@@ -170,7 +172,9 @@ Note: There was a bug in Onion's version of Retroarch that was fixed by @akouzou
 <details>
 <summary>Scanlines & Grids</summary
 
+
 Usually the 2px versions will be best for higher res systems.
+
 **Settings**
 - Video
   - Scaling

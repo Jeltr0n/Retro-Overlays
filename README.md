@@ -172,6 +172,9 @@ Usually the 2px versions will be best for higher res systems.
   </details>
 
   ## Overlays for 720 x 720 screens
+RGB30
+
+
 
 If you are sick of playing the same old Gameboy games from 1993, I have made some new ones! :) 
 Check them out on my itch page: https://benjelter.itch.io/

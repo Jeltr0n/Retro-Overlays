@@ -203,6 +203,11 @@ My favorite middle-ground is 768 x 576 which is 1.2x the size and only crops 24 
 </details>
 
 <details>
+    <summary>Changelog and old versions</summary>
+Original set:[Rgb30_Overlays_1-0.zip](https://github.com/Jeltr0n/Retro-Overlays/files/13328673/Rgb30_Overlays_1-0.zip)
+</details>
+
+<details>
     <summary>How to use</summary>
 
 First set your aspect ratio to access manual control over the screen position:

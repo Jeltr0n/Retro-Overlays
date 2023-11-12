@@ -46,6 +46,9 @@ VIDEO FILTERS
 
 Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/10962300/Onion.Overlays.zip)
 </details>
+<details>
+    <summary>How to use the Overlays with Onion</summary>
+    
 How to use the Overlays with Onion
 ---
 Gameboy
@@ -160,5 +163,6 @@ Usually the 2px versions will be best for higher res systems.
 - On-Screen Display
   - On-Screen Overlay
     - Display overlay= ON
+  </details>
     - Overlay Preset= Scanlines and Grids/(Choose your favorite effect)
     - Overlay Opacity=  1.00

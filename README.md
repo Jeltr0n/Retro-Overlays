@@ -237,13 +237,13 @@ If an overlay says **576p** in the filename use these settings:
 <details>
     <summary>Pokemini</summary>
 Scaling:
-- X Offset: 0
-- Y offset:102
+- X_Offset: 0
+- Y_offset:102
 - Width: 720
 - Height:480
     
 For this system it is not integer scaled so no overlay or video filter seems to add a nice pixel grid. 
-The best method I have found to add a pixel grid is to go to Shaders->Handheld->Dot and set the following shader parameters: 
+The best method I have found to add a pixel grid is to go to Shaders->Handheld->Dot and set the following shader parameters:
 - Gamma: 2.20
 - Shine: 0.05
 - Blend: 0.80

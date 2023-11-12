@@ -169,7 +169,7 @@ Note: There was a bug in Onion's version of Retroarch that was fixed by @akouzou
 
 <details>
 <summary>Scanlines & Grids</summary
----
+
 Usually the 2px versions will be best for higher res systems.
 **Settings**
 - Video
@@ -185,7 +185,7 @@ Usually the 2px versions will be best for higher res systems.
   
 </details>
 
-  ## Overlays for 720 x 720 screens
+## Overlays for 720 x 720 screens
 RGB30
 
 

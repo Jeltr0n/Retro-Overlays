@@ -236,7 +236,7 @@ If an overlay says **576p** in the filename use these settings:
 
 <details>
     <summary>Pokemini</summary>
-
+Scaling:
 - X Offset: 0
 - Y offset:102
 - Width: 720

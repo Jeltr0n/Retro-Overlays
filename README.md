@@ -53,7 +53,8 @@ Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/109623
 How to use the Overlays with Onion
 ---
 <details>
-<summary>Gameboy</summary>
+<summary>Gameboy</summary
+                    
 ![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
 
 Please note that the 'GB-Pocket' gambatte palette requires Onion 4.2 beta 4 or later

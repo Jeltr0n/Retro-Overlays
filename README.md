@@ -220,7 +220,7 @@ If an overlay says **576p** in the filename use these settings:
  
  If an overlay says **600x800** in the filename use these settings:
 - X position: -40
-- Y Position: 60
+- Y Position: 30
 - Width: 800
 - Height: 600
  

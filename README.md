@@ -2,7 +2,7 @@
 ![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
-## Overlays for 640x480 screens
+## Overlays for 640 x 480 screens
 ---
 <details>
     <summary>Description</summary>
@@ -182,3 +182,8 @@ Usually the 2px versions will be best for higher res systems.
     - Overlay Preset= Scanlines and Grids/(Choose your favorite effect)
     - Overlay Opacity=  1.00
   </details>
+
+  ## Overlays for 720 x 720 screens
+
+If you are sick of playing the same old Gameboy games from 1993? I have made some new ones! :) 
+Check them out on my itch page: https://benjelter.itch.io/

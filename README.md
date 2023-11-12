@@ -248,6 +248,7 @@ The best method I have found to add a pixel grid is to go to Shaders->Handheld->
 - Blend: 0.80
 
 Don't forget to save your shader settings in the shader menu. For some reason they are not saved when you save overrides...
+
 </details>
 
 <details>

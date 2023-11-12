@@ -202,7 +202,7 @@ I have made some 600 x 800 and some 768 x 576 overlays for 4:3 systems. In my op
 My favorite middle-ground is 768 x 576 which is 1.2x the size and only crops 24 pixels on either side. (because this screen is pretty high-res 24px is less than it sounds)
 </details>
 
-2023-11-12 Update [720x720 Overlays 11-12-23.zip](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)
+### 2023-11-12 Update [720x720 Overlays 11-12-23.zip](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)
 
 <details>
     <summary>Changelog and old versions</summary>

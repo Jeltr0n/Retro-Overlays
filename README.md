@@ -82,7 +82,9 @@ I often put all of my GB and GBC roms in the same folder since they both use the
 
 </details>
 
-### Gameboy Color
+<details>
+<summary>Gameboy Color</summary
+                          
 ---
 ![prototype3](https://user-images.githubusercontent.com/70062490/231197229-5bcb7417-7ed5-4799-ae96-44bebcd2e927.png)
 
@@ -103,8 +105,10 @@ I often put all of my GB and GBC roms in the same folder since they both use the
     - Overlay Preset=  /GB-GBC/GBOffset/**GBC**
     - Overlay Opacity=  1.00
 
+</details>
 
-### GBA
+<details>
+<summary>Gameboy Advance</summary
 ---
 ![GBA_Example](https://user-images.githubusercontent.com/70062490/224847113-6c9af53f-40b8-494b-b2fc-ed412041305a.png)
 
@@ -123,8 +127,11 @@ I often put all of my GB and GBC roms in the same folder since they both use the
     - Display overlay= ON
     - Overlay Preset=  GBA/GBAOffset/GBA_(Choose if you want grid or scanline)_(The number represents how opaque the effect will be)
     - Overlay Opacity=  1.00
+   
+</details>
 
-## NGP
+<details>
+<summary>Neo Geo Pocket</summary
 ---
 ![ms1st](https://user-images.githubusercontent.com/70062490/231246253-78d0598f-dde8-4fc2-bd5c-8bf45526b73f.png)
 
@@ -139,8 +146,11 @@ I often put all of my GB and GBC roms in the same folder since they both use the
     - Display overlay= ON
     - Overlay Preset= NGP/NGPOffset/NGP_Black
     - Overlay Opacity=  1.00
+   
+</details>
 
-### CRT
+<details>
+<summary>CRT</summary
 ---
 ![CRT_Example](https://user-images.githubusercontent.com/70062490/224847109-47166561-4230-4537-9790-9dbad8736952.png)
 These are good for 4:3 systems scaled to full screen. 
@@ -155,8 +165,11 @@ Note: There was a bug in Onion's version of Retroarch that was fixed by @akouzou
     - Display overlay= ON
     - Overlay Preset= CRT/(Choose your favorite effect)
     - Overlay Opacity=  1.00
-  
-### Scanlines & Grids
+
+</details>
+
+<details>
+<summary>Scanlines & Grids</summary
 ---
 Usually the 2px versions will be best for higher res systems.
 **Settings**
@@ -169,7 +182,9 @@ Usually the 2px versions will be best for higher res systems.
     - Display overlay= ON
     - Overlay Preset= Scanlines and Grids/(Choose your favorite effect)
     - Overlay Opacity=  1.00
-  </details>
+<details>
+  
+</details>
 
   ## Overlays for 720 x 720 screens
 RGB30

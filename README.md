@@ -1,5 +1,6 @@
 # Jeltron's Retro Overlays
-![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
+![ngpcsmall](https://github.com/Jeltr0n/Retro-Overlays/assets/70062490/a6099cd0-8d8b-46bb-b7ee-9abea6ce4279)
+
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 ## 640 x 480 Overlays

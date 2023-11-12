@@ -223,6 +223,12 @@ If an overlay says **576p** in the filename use these settings:
 - Y Position: 30
 - Width: 800
 - Height: 600
+
+<details>
+    <summary>Wonderswan</summary>
+For wonderswan it is best to leave the aspect ratio set to 'core provided' and turn on integer scaling. This will allow you to press select to rotate the screen in games that require it. If you are wondering why the logos don't fill out more of the screen it is because the overlays are designed to avoid overlapping both the vertical and horizontal format. With this perfect 1:1 screen I wanted to make sure to retain that.
+</details>
+
  
 </details>
 

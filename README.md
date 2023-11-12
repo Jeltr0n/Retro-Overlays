@@ -219,6 +219,7 @@ First set your aspect ratio to access manual control over the screen position:
 
  <details>
     <summary>4:3</summary>
+     
 If an overlay says **576p** in the filename use these settings:
 - X position: -24
 - Y Position: 60
@@ -229,7 +230,24 @@ If an overlay says **576p** in the filename use these settings:
 - X position: -40
 - Y Position: 30
 - Width: 800
-- Height: 600
+- Height:600
+- 
+</details>
+
+<details>
+    <summary>Pokemini</summary>
+- X Offset: 0
+- Y offset:102
+- Width: 720
+- Height:480
+    
+For this system it is not integer scaled so no overlay or video filter seems to add a nice pixel grid. 
+The best method I have found to add a pixel grid is to go to Shaders->Handheld->Dot and set the following shader parameters: 
+- Gamma:2.20
+- Shine: 0.05
+- Blend: 0.80
+
+Don't forget to save your shader settings in the shader menu. For some reason they are not saved when you save overrides...
 </details>
 
 <details>

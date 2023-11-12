@@ -218,17 +218,14 @@ First set your aspect ratio to access manual control over the screen position:
                 - Aspect Ratio->Custom
 
  <details>
-    <summary>576p</summary>
+    <summary>4:3</summary>
 If an overlay says **576p** in the filename use these settings:
 - X position: -24
 - Y Position: 60
 - Width: 768
 - Height: 576
-</details>
-  
- <details>
-    <summary>600 x 800</summary>
- If an overlay says **600x800** in the filename use these settings:
+
+ If an overlay says **4:3 600x800** in the filename use these settings:
 - X position: -40
 - Y Position: 30
 - Width: 800

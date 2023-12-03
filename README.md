@@ -55,6 +55,7 @@ Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/109623
     
 How to use the Overlays with Onion
 ---
+
 <details>
 <summary>Gameboy</summary
                     
@@ -252,6 +253,9 @@ If an overlay says **576p** in the filename use these settings:
 </details>
 
 <details>
+    <summary>Handhelds</summary>
+
+<details>
     <summary>Pokemini</summary>
     
 Scaling:
@@ -276,6 +280,8 @@ For wonderswan it is best to leave the aspect ratio set to 'core provided' and t
 </details>
 
  
+</details>
+
 </details>
 
 ## Game Boy Games

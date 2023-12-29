@@ -255,6 +255,29 @@ If an overlay says **576p** in the filename use these settings:
 <details>
     <summary>Handhelds</summary>
 
+
+<details>
+    <summary>Gameboy</summary>
+    
+Scaling:
+- X_Offset: 40
+- Y_offset: 20
+- Width: 640
+- Height:576
+
+</details>
+
+<details>
+    <summary>GBA</summary>
+    
+Scaling:
+- X_Offset: 0
+- Y_offset: 75
+- Width: 720
+- Height:480
+
+</details>
+
 <details>
     <summary>Pokemini</summary>
     

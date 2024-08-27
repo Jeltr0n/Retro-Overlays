@@ -3,9 +3,13 @@
 
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
-## [640 x 480 Overlays](https://github.com/user-attachments/files/16769499/480p.6-1-23.zip)
-353 devices, XX devices, ARC-D/S, 405m, 351v, RGB20s, RK2023, GKD Mini Plus, Miyoo Mini/Plus (Miyoo mini V4 is 540p, not compatible w 480p overlays, stay tuned!)
 
+## [640 x 480 Overlays for Retroarch](https://github.com/user-attachments/files/16769685/480p.overlay.set.zip)
+
+353 devices, XX devices, ARC-D/S, 405m, 351v, RGB20s, RK2023, GKD Mini Plus
+
+## [640 x 480 Overlays for Onion](https://github.com/user-attachments/files/16769499/480p.6-1-23.zip)
+Miyoo Mini/Plus NOTE: Miyoo mini V4 is 540p, stay tuned!
 
 <details>
     <summary>How to use the Overlays with Miyoo Mini/Plus (Onion)</summary>
@@ -150,10 +154,8 @@ Usually the 2px versions will be best for higher res systems.
   
 </details>
 
-## 720 x 720 Overlays
+## [720 x 720 Overlays](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)
 RGB30/20sx, RG Cube, Unicorn, Retropixel Pocket
-
-### 2023-11-12 Update [720x720 Overlays 11-12-23.zip](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)
 
 <details>
     <summary>How to use</summary>
@@ -246,7 +248,7 @@ For wonderswan it is best to leave the aspect ratio set to 'core provided' and t
 
 </details>
 
-## Game Boy Games
+## [Game Boy Games](https://benjelter.itch.io)
 If you are sick of playing the same old Gameboy games from 1993, I have made some new ones! :) 
 
 Check them out on my itch page: https://benjelter.itch.io/

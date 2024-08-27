@@ -4,52 +4,14 @@
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 ## 640 x 480 Overlays
-<details>
-    <summary>Description</summary>
-
 Systems: Miyoo Mini/Plus (NOT 540p mini v4!), 353v/vs, 353m, 35XX, ARC-D/S, 405m, 353ps, 351v, RGB20s, RK2023, GKD Mini Plus & many more
 
-The instructions are for Onion but I will put general RetroArch Instructions as soon as I have time. It should be noted that only the Onion version of RA has the gambatte palettes that are ideal for the gameboy overlay. There is also a blending bug in RA that has been fixed in Onion's version of RA but might not be fixed in all versions of RA.
+Only the Onion version of RA has the gambatte palettes that are ideal for the gameboy overlay. Other OSes have a substitution. There is also a blending bug in RA that has been fixed in Onion's version of RA but might not be fixed in all versions of RA this will cause the CRT overlays to look more washed out than intended.
 
 The GBP one is based on the work of @creamydips
-</details>
 
 ### 2023-06-01 Update (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip)
 
-<details>
-    <summary>Changelog & Old Versions</summary>
-Thanks to @duckyb
-
-GB
-- Fixed noise being present on the GBC overlay (that system did not have the same reflective backing as the DMG, so it didn't look authentic)
-- Added Noise/No noise options for DMG
-
-GBA
-- fixed alignment issues w offset filter
-- made scanlines and grid be better aligned with the frame. Note: It is impossible for the overlay to perfectly align with the pixel grid when it is not integer scaled. If this bothers you, I suggest a lower opacity or using integer scaling with the 2px scanlines overlay.
-- made the rounded corners on overlay smoother so they look good on the Mini Plus
-CRT
-- removed some of the least useful filters (vertical checker, scanlines 2x)
-- the vignette effect is now more subtle to avoid the screen getting too dark at the edges.
-- the edges now have a smoother gradient
-- the pixel patterns have been softened to not call too much attention to individual pixels on the larger screen of the miyoo mini plus
-- a new overlay has been added for vertical arcade games. I don't know if it will fit everything correctly. Proportions were based on DoDonPachi
-SFC
-- a new overlay for Super Famicom by @duckyb
-VIDEO FILTERS
--There is a very versatile new offset video filter by @eggs that allows you to offset the screen by X pixels by editing a simple text document. Could be useful for future overlays made by other people.
-
-**4-4-2023 Update** [Jeltron Overlays- 480p.zip](https://github.com/OnionUI/Onion/files/11149108/Jeltron.Overlays-.480p.zip)
-<details>
-<summary>Changelog</summary>
-- The GBA offset filter has been updated to align better with the overlays
-- The GB logos have a slight blue added to give a stronger impression that they are white but in shadow rather than just dark gray
-- The CRT filters have been completely redone. I didn't have enough time to make them good last time.
-- A GBA grid filter has been added based on one that Miyoo included in their stock OS
-</details>
-
-Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/10962300/Onion.Overlays.zip)
-</details>
 <details>
     <summary>How to use the Overlays with Onion</summary>
     

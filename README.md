@@ -56,8 +56,7 @@ Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/109623
 How to use the Overlays with Onion
 ---
 
-<details>
-<summary>Gameboy</summary
+Gameboy
                     
 ![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
 
@@ -83,8 +82,6 @@ Please note that the 'GB-Pocket' gambatte palette requires Onion 4.2 beta 4 or l
     - Overlay Opacity=  1.00
 
 I often put all of my GB and GBC roms in the same folder since they both use the gambatte core but you may want to separate them so that you can save different settings for them. Don't forget after you set your settings the way you want them to go to Overrides->Save Content Directory overrides or Retroarch will conveniently delete all of your settings. If you choose save core overrides it might save it for both GB and GBC which would not be ideal.
-
-</details>
 
 <details>
 <summary>Gameboy Color</summary

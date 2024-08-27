@@ -4,7 +4,7 @@
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 ## 640 x 480 Overlays
-Systems: Miyoo Mini/Plus (NOT 540p mini v4!), 353v/vs, 353m, 35XX, ARC-D/S, 405m, 353ps, 351v, RGB20s, RK2023, GKD Mini Plus & many more
+Systems: Miyoo Mini/Plus (NOT 540p mini v4!), 353 devices, XX devices, ARC-D/S, 405m, 351v, RGB20s, RK2023, GKD Mini Plus & many more
 
 Only the Onion version of RA has the gambatte palettes that are ideal for the gameboy overlay. Other OSes have a substitution. There is also a blending bug in RA that has been fixed in Onion's version of RA but might not be fixed in all versions of RA this will cause the CRT overlays to look more washed out than intended.
 

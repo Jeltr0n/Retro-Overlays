@@ -7,7 +7,7 @@ The goal with all of these overlays is to make the screen look as good as possib
 <details>
     <summary>Description</summary>
 
-Systems: Miyoo Mini (Plus), 353v/vs, 353m, 35XX, ARC-D/S, 405m, 353ps, 351v, RGB20s, RK2023, GKD Mini Plus & many more
+Systems: Miyoo Mini/Plus (NOT 540p mini v4!), 353v/vs, 353m, 35XX, ARC-D/S, 405m, 353ps, 351v, RGB20s, RK2023, GKD Mini Plus & many more
 
 The instructions are for Onion but I will put general RetroArch Instructions as soon as I have time. It should be noted that only the Onion version of RA has the gambatte palettes that are ideal for the gameboy overlay. There is also a blending bug in RA that has been fixed in Onion's version of RA but might not be fixed in all versions of RA.
 
@@ -53,10 +53,10 @@ Original set: [Onion Overlays.zip](https://github.com/OnionUI/Onion/files/109623
 <details>
     <summary>How to use the Overlays with Onion</summary>
     
-How to use the Overlays with Onion
+How to use the Overlays with Miyoo Mini/Plus (Onion)
 ---
-
-Gameboy
+<details>
+<summary>Game Boy</summary
                     
 ![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
 
@@ -82,9 +82,10 @@ Please note that the 'GB-Pocket' gambatte palette requires Onion 4.2 beta 4 or l
     - Overlay Opacity=  1.00
 
 I often put all of my GB and GBC roms in the same folder since they both use the gambatte core but you may want to separate them so that you can save different settings for them. Don't forget after you set your settings the way you want them to go to Overrides->Save Content Directory overrides or Retroarch will conveniently delete all of your settings. If you choose save core overrides it might save it for both GB and GBC which would not be ideal.
+</details>
 
 <details>
-<summary>Gameboy Color</summary
+<summary>Game Boy Color</summary
                           
 ![prototype3](https://user-images.githubusercontent.com/70062490/231197229-5bcb7417-7ed5-4799-ae96-44bebcd2e927.png)
 

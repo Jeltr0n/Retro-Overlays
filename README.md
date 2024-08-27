@@ -157,20 +157,6 @@ RGB30/20sx, RG Cube, Unicorn, Retropixel Pocket
 ### 2023-11-12 Update [720x720 Overlays 11-12-23.zip](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)
 
 <details>
-    <summary>Changelog and old versions</summary>
-
-<details>
-    <summary>2023-11-12 Update Changelog</summary>
--Added a set of 576p Overlays for 4:3 systems
--Added Pokemini and Wonderswan Overlays
--Removed the readme file-will just keep the github instructions up to date instead now
--Organized the overlays and dumped the less useful ones in a separate folder so it takes less time to look through them. I am not going to keep supporting the 8:7 systems because they're so full screen with integer overscan that I don't think they need overlays.
-</details>
-
-Original set:[Rgb30_Overlays_1-0.zip](https://github.com/Jeltr0n/Retro-Overlays/files/13328673/Rgb30_Overlays_1-0.zip)
-</details>
-
-<details>
     <summary>How to use</summary>
 
 First set your aspect ratio to access manual control over the screen position:

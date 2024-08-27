@@ -9,9 +9,9 @@ Systems: Miyoo Mini/Plus (NOT 540p mini v4!), 353 devices, XX devices, ARC-D/S, 
 ### 2023-06-01 Update (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip)
 
 <details>
-    <summary>How to use the Overlays with Onion</summary>
+    <summary>How to use the Overlays with Miyoo Mini/Plus (Onion)</summary>
     
-How to use the Overlays with Miyoo Mini/Plus (Onion)
+How to use the Overlays with Onion
 ---
 <details>
 <summary>Game Boy</summary

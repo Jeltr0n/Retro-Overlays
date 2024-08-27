@@ -6,10 +6,6 @@ The goal with all of these overlays is to make the screen look as good as possib
 ## 640 x 480 Overlays
 Systems: Miyoo Mini/Plus (NOT 540p mini v4!), 353 devices, XX devices, ARC-D/S, 405m, 351v, RGB20s, RK2023, GKD Mini Plus & many more
 
-Only the Onion version of RA has the gambatte palettes that are ideal for the gameboy overlay. Other OSes have a substitution. There is also a blending bug in RA that has been fixed in Onion's version of RA but might not be fixed in all versions of RA this will cause the CRT overlays to look more washed out than intended.
-
-The GBP one is based on the work of @creamydips
-
 ### 2023-06-01 Update (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip)
 
 <details>
@@ -23,6 +19,8 @@ How to use the Overlays with Miyoo Mini/Plus (Onion)
 ![prototype2](https://user-images.githubusercontent.com/70062490/231170138-b5b67517-9885-44d5-b51c-0b65d0dbb96d.png)
 
 Please note that the 'GB-Pocket' gambatte palette requires Onion 4.2 beta 4 or later
+
+This GP one is based on the work of @creamydips
 
 **Quick Menu**
 - Core Options

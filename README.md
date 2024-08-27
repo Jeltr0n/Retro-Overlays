@@ -8,6 +8,72 @@ The goal with all of these overlays is to make the screen look as good as possib
 
 353 devices, XX devices, ARC-D/S, 405m, 351v, RGB20s, RK2023, GKD Mini Plus
 
+<details>
+<summary>How to use</summary>
+
+### Gameboy
+
+- Video
+  - Scaling
+    - Integer= OFF
+    - Aspect= Custom
+      - X pos=80
+      - Y pos=12
+      - Width=480
+      - Height=432
+  - Bilinear filtering=off
+
+- On-screen overlay
+  - Preset: GB_DMG for greenscale, GB_Pocket for grayscale, GB_Bivert for Bivert simulation
+  - Opacity=1.00
+
+Palettes are applied based on the overlay
+All will need:
+- Core Options
+  - GB colorization: Internal
+	
+GB_DMG
+- Internal Palette: Pixelshift - Pack 1
+- Pack 1 palette: Pixelshift 03 - BGB 0.3 Emulator
+
+GB_Pocket
+- Internal Palette: TWB Pack 2
+- TWB Pack 2 Palette: 117 Silver Shiro
+
+GB_Bivert
+- Internal Palette: Pixelshift - Pack 1
+- Pack 1 palette: Pixelshift 27- GBP Bivert
+
+### Gameboy Advance
+
+Video
+- Scaling
+  - Integer=OFF
+  - Aspect=Custom
+    - X pos=0
+    - Y pos=0
+    - Width=640
+    - Height=427            
+- Bilinear filtering=on
+
+I suggest using this with a shader from the interpolation folder (choose what looks best to you)
+If your device doesn't support shaders, try normal 2x video filter.
+
+### NeoGeo
+
+Video
+- Scaling
+  - Integer= OFF
+  - Aspect= Custom
+    - X pos=16
+    - Y pos=08
+    - Width=608
+    - Height=448
+- Bilinear filtering=optional
+
+</details>
+
+
 ## [640 x 480 Overlays for Onion](https://github.com/user-attachments/files/16769499/480p.6-1-23.zip)
 Miyoo Mini/Plus NOTE: Miyoo mini V4 is 540p, stay tuned!
 

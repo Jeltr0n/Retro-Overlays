@@ -4,7 +4,8 @@
 
 The goal with all of these overlays is to make the screen look as good as possible by blending how you remember it looking with what makes it look best.
 ## 640 x 480 Overlays
-Miyoo Mini/Plus (NOT 540p mini v4!), 353 devices, XX devices, ARC-D/S, 405m, 351v, RGB20s, RK2023, GKD Mini Plus & many more
+Miyoo Mini/Plus, 353 devices, XX devices, ARC-D/S, 405m, 351v, RGB20s, RK2023, GKD Mini Plus & many more
+Note: Miyoo mini v4+ is 540p, not compatible
 
 ### 2023-06-01 Update (https://github.com/OnionUI/Onion/files/11627966/6-1-23.update.zip)
 

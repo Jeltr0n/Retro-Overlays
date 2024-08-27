@@ -152,14 +152,7 @@ Usually the 2px versions will be best for higher res systems.
 </details>
 
 ## 720 x 720 Overlays
-<details>
-    <summary>Description</summary>
-Systems: RGB30, Retropixel Pocket if you have one of the 5 that are out there.
-    
-I have made some 600 x 800 and some 768 x 576 overlays for 4:3 systems. In my opinion it is better to have a screen crop than have a smaller picture on this screen. The 600 x 800 ones crop more of the screen so they are best to use in games with minimal UI or adjustable UI (a lot of arcade games for DC and PS1 have this in the options)
-
-My favorite middle-ground is 768 x 576 which is 1.2x the size and only crops 24 pixels on either side. (because this screen is pretty high-res 24px is less than it sounds)
-</details>
+RGB30/20sx, RG Cube, Unicorn, Retropixel Pocket
 
 ### 2023-11-12 Update [720x720 Overlays 11-12-23.zip](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)
 
@@ -189,6 +182,9 @@ First set your aspect ratio to access manual control over the screen position:
 
  <details>
     <summary>4:3</summary>
+I have made some 600 x 800 and some 768 x 576 overlays for 4:3 systems. In my opinion it is better to have a screen crop than have a smaller picture on this screen. The 600 x 800 ones crop more of the screen so they are best to use in games with minimal UI or adjustable UI (a lot of arcade games for DC and PS1 have this in the options)
+
+My favorite middle-ground is 768 x 576 which is 1.2x the size and only crops 24 pixels on either side. (because this screen is pretty high-res 24px is less than it sounds)
      
 If an overlay says **576p** in the filename use these settings:
 - X position: -24

@@ -75,10 +75,10 @@ Video
 
 
 ## [640 x 480 Overlays for Onion](https://github.com/user-attachments/files/16769499/480p.6-1-23.zip)
-Miyoo Mini/Plus NOTE: Miyoo mini V4 overlays are below. (750 x 560)
+Miyoo Mini V1-3 & Plus
 
 <details>
-    <summary>How to use the Overlays with Miyoo Mini/Plus (Onion)</summary>
+    <summary>How to use</summary>
     
 How to use the Overlays with Onion
 ---
@@ -220,12 +220,65 @@ Usually the 2px versions will be best for higher res systems.
   
 </details>
 
-## [750 x 560 Overlays for Miyoo Mini V4+](https://github.com/user-attachments/files/16821472/540p.zip)
+## [750 x 560 Overlays](https://github.com/user-attachments/files/16822468/540p.zip)
+Miyoo Mini V4 and up. 
 Technically these are 752 x 560 because of how weird the screen is.
 <details>
 <summary>How to use</summary>
+
 ### Game Boy
 
+For this one I have 3 options. DMG is a warts and all recreation of the original game boy's green screen, GBP is a nice grayscale one, and GB is greenscale but more readable than DMG
+
+- Quick Menu
+  - Core Options
+    - GB Colorization: Internal
+    - Current Color Category: Essentials for DMG/GBP, Extras for GB
+    - Color Categories
+      -Essentials: 'GB-DMG' for DMG overlay, 'GB-Pocket' for GBP overlay
+      -Extras: 'BGB 0.3 Emulator' for 'GB' overlay
+  - On-Screen Overlay
+    - Overlay Preset: GB_540.cfg, DMG_540.cfg, or GBP_540.fcg depending on the palette you chose.
+    - Overlay Opacity: You can change this to however intense you want the grid effect to be
+- Settings
+  - Video
+    - Scaling
+      - Integer Scale: OFF
+      - Keep Aspect Ratio: ON
+    - Video Filter: Normal/Normal 2x
+   
+### Game Boy Color
+
+- Quick Menu
+  - Core Options
+    - Color Correction: GBC Only
+    - Color correction mode: You can choose if you like fast or accurate more. Fast is more colorful. Accurate is more...accurate.
+    - Dark Filter Level: 15% (This prevents pure white from looking way brighter than it is supposed to on original hardware)
+  - On-Screen Overlay
+    - Overlay Preset: GBC_540.cfg
+    - Overlay Opacity: You can change this to however intense you want the grid effect to be
+- Settings
+  - Video
+    - Scaling
+      - Integer Scale: OFF
+      - Keep Aspect Ratio: ON
+    - Video Filter: Normal/Normal 2x
+   
+### Game Boy Advance
+
+- Quick Menu
+  - Core Options
+    - Video
+      - Color correction: Game Boy Advance
+  - On-Screen Overlay
+    - Overlay Preset: GBA_540.cfg
+    - Overlay Opacity: You can change this to however intense you want the grid effect to be
+- Settings
+  - Video
+    - Scaling
+      - Integer Scale: OFF
+    - Video Filter: GBA/Filter for Overlays/GBAOffset
+    
 
 <details>
     <summary>Miyoo Mini V4 overlay template</summary>

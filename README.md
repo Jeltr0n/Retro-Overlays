@@ -235,6 +235,8 @@ https://github.com/user-attachments/assets/86885277-e703-424a-8020-77f701c77d3d
 
 </details>
 
+</details>
+
 ## [720 x 720 Overlays](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)
 RGB30/20sx, RG Cube, Unicorn, Retropixel Pocket
 

@@ -75,7 +75,7 @@ Video
 
 
 ## [640 x 480 Overlays for Onion](https://github.com/user-attachments/files/16769499/480p.6-1-23.zip)
-Miyoo Mini/Plus NOTE: Miyoo mini V4 is 540p, stay tuned!
+Miyoo Mini/Plus NOTE: Miyoo mini V4 overlays are below. (750 x 560)
 
 <details>
     <summary>How to use the Overlays with Miyoo Mini/Plus (Onion)</summary>
@@ -218,6 +218,21 @@ Usually the 2px versions will be best for higher res systems.
     - Overlay Opacity=  1.00
 </details>
   
+</details>
+
+## [750 x 560 Overlays for Miyoo Mini V4+](https://github.com/user-attachments/files/16821472/540p.zip)
+Technically these are 752 x 560 because of how weird the screen is.
+<details>
+<summary>How to use</summary>
+### Game Boy
+
+
+<details>
+    <summary>Miyoo Mini V4 overlay template</summary>
+If you want to make your own overlay this could help you a bit. Please note: This is based on my screen but apparently some devices cut off the top row of pixels and others cut off the bottom row. It is probably safest to design your overlay to avoid both the top and bottom row. 
+	
+https://github.com/user-attachments/assets/86885277-e703-424a-8020-77f701c77d3d
+
 </details>
 
 ## [720 x 720 Overlays](https://github.com/Jeltr0n/Retro-Overlays/files/13328709/720x720.Overlays.11-12-23.zip)

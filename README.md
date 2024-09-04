@@ -356,6 +356,17 @@ Scaling:
 </details>
 
 <details>
+    <summary>Neo Geo Pocket</summary>
+    
+Scaling:
+- X_Offset: 40
+- Y_offset: 30
+- Width: 640
+- Height:608
+
+</details>
+
+<details>
     <summary>Pokemini</summary>
     
 Scaling:

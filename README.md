@@ -302,7 +302,8 @@ First set your aspect ratio to access manual control over the screen position:
         - Aspect Ratio->
             - Scaling->
                 - Aspect Ratio->Custom
-
+              
+If you run into alignment issues, set Viewport Anchor Bias X to 0.00 and Viewport Anchor Bias Y to 1.00.
  <details>
     <summary>4:3</summary>
 I have made some 600 x 800 and some 768 x 576 overlays for 4:3 systems. In my opinion it is better to have a screen crop than have a smaller picture on this screen. The 600 x 800 ones crop more of the screen so they are best to use in games with minimal UI or adjustable UI (a lot of arcade games for DC and PS1 have this in the options)
